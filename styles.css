@@ -1,0 +1,12 @@
+.game{
+    display:flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+#results{
+    text-align: center;
+    padding: 50px;
+    font-size: 26px;
+    color: rgb(115, 10, 153) 
+}
